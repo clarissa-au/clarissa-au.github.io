@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 # Encoding: utf-8
-
 #
 # category_pages
 # Add category index pages with and without pagination.
