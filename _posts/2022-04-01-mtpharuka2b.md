@@ -2,7 +2,7 @@
 layout: post
 title:  "Minecraft Trading Place Haruka - Day 2b"
 date:   2022-04-01 12:00:00 +0800
-categories: minecrafting
+category: minecrafting
 ---
 
 

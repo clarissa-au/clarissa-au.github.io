@@ -2,7 +2,7 @@
 layout: post
 title:  "Minecraft Trading Place Haruka - Day 2a"
 date:   2022-03-31 12:00:00 +0800
-categories: minecrafting
+category: minecrafting
 ---
 
 Chika here again, spending 2 hours to clean the mess of yesterday.

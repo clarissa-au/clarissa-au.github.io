@@ -2,7 +2,10 @@
 layout: post
 title:  "Why Civilization, as a long server aim, is impossible"
 date:   2022-04-04 00:00:00 +0800
-categories: minecrafting admincraft coolname
+category: 
+    - minecrafting 
+    - admincraft 
+    - coolname
 legacy_meta_desc: Chika lays out the squares on why civilization is bad, and essays Coolname MC to rebuild.
 legacy_meta_pic: https://i.imgur.com/xmLLE1r.jpg
 ---
@@ -40,3 +43,6 @@ It's no secret that there are people who love to watch the world burn and will s
 Chika is sending this Essay to the Administration. I suggest that we should dissolve the current Objective, and build from scratch. That tactical nuke has dropped, but we still do have that Minecraft itch. Redo it, and make a better survival program.
 
 *Chika off.*
+
+
+{{page.category}}

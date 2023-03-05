@@ -2,7 +2,7 @@
 layout: post
 title:  "Clarissa's Gaming intro"
 date:   2023-03-05 19:20:00 +0800
-categories: clarissa
+category: clarissa
 ---
 
 I have been gaming from at least Primary 6 in primary school - so I can sorta say that I've played quite a few games and have a little bit of experience in gaming.
