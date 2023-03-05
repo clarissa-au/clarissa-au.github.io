@@ -14,7 +14,7 @@ title: Blog
 <ul>
 {% assign categories = site.categories | sort: "title" %}
 {% for post in categories %}
-    <i> <a href="{{ post.url }}">#{{ post.title | downcase }}</a>
+    <i> <a href="/category/{{post.title|downcase}}">#{{ post.title | downcase }}</a>
     </i>
 {% endfor %}
 </ul>
