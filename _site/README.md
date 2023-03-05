@@ -1,2 +1,0 @@
-# chika_home
- chiiika
