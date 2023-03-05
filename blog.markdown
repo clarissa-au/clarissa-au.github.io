@@ -12,7 +12,9 @@ title: Blog
 
 <h2>Categories</h2>
 <ul>
-{% for category in site.categories %}
-<i><a href="{{ site.url }}/category/{{ category | first | slugify }}/index.html">#{{ category | first }}</a></i>
+{% assign categories = site.categories | sort: "title" %}
+{% for post in categories %}
+    <li> <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
 {% endfor %}
 </ul>

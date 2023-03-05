@@ -34,7 +34,9 @@ timezone: Asia/Hong_Kong
 # Build settings
 theme: minima
 
-future: true
+ collections:
+     categories:
+         output: true
 
 plugins:
   - jekyll-feed
