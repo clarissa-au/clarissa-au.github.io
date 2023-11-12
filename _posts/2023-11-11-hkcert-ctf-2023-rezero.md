@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HKCERT CTF 2023 Writeups - Handhelds"
+title:  "HKCERT CTF 2023 Writeups - ReZero"
 date:   2023-11-10 21:00:00 +0800
 category: 
     - ctf
