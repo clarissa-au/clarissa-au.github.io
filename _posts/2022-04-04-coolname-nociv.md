@@ -4,8 +4,7 @@ title:  "Why Civilization, as a long server aim, is impossible"
 date:   2022-04-04 00:00:00 +0800
 category: 
     - minecrafting 
-    - admincraft 
-    - coolname
+    - admincraft
 legacy_meta_desc: Chika lays out the squares on why civilization is bad, and essays Coolname MC to rebuild.
 legacy_meta_pic: https://i.imgur.com/xmLLE1r.jpg
 ---
